@@ -25,7 +25,7 @@ At the bottom of the program you will see some statistics gleaned from the displ
 Of course this prediction is on based soley on history and cannot take into account current form, injuries, manager etc. so take the predictions with a pinch of salt,
 but if I don't put a predictor of some sort in the program people will want one, so I did it!
 
-You can save the resultant data as CSV or plain text by clicking the appropiate button.
+You can save the resultant data as CSV or plain text by clicking the appropriate button.
 
 You can quickly view edit or delete those saved files in your file browser,
 if you got to the drop-down menu, top left of the program, you can select "open user saves folder".
