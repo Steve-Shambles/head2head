@@ -1,5 +1,7 @@
 # head2head
+
 A database of every English Premier League football match, over 23k of them with stats and tentative match prediction.
+
 ![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.72-screenshot1.png)
 
 istorical data supplied by https://football-data.co.uk, with thanks.
@@ -10,7 +12,6 @@ Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, https://commons.wikimedi
 
 This program is Freeware and the source code comes under the 
 MIT Licence, but the program as a whole remains (c) Steve Shambles.
--------------------------------------------------
 
 Head2Head is a desktop app that contains every single English Premier league result from the day of the league's inception back in August 1992. I think that's over 23,000 matches.
 
