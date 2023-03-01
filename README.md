@@ -4,7 +4,7 @@ A database of every English Premier League football match, over 23k of them with
 
 ![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.72-screenshot1.png)
 
-istorical data supplied by https://football-data.co.uk, with thanks.
+Historical data supplied by https://football-data.co.uk, with thanks.
 Current data covers Aug 1992 to Feb 2023.
 
 logo photo attribution:
