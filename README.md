@@ -44,6 +44,7 @@ different to most other people) it all makes sense to me!!!
 Create your own executable file with pyinstaller (pip install pyinstaller) first:
 
 pyinstaller head2head_v072.py -n head2head_v072 --windowed --onefile
+
 to run, the exe will need the complete data folder in same dir as the exe.
 
 
