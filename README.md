@@ -40,4 +40,10 @@ Though I am fully aware my programming leaves a lot to be desired (from a profes
 I do this for fun FFS lol) and probably only I can understand the spaghetti I have created here (I have ADHD brain and it works 
 different to most other people) it all makes sense to me!!!
 
+
+Create your own executable file with pyinstaller (pip install pyinstaller) first:
+pyinstaller head2head_v072.py -n head2head_v072 --windowed --onefile
+to run, the exe will need the complete data folder in same dir as the exe.
+
+
 Steve Shambles.
