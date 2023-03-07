@@ -36,7 +36,7 @@ This is a very early version of H2H. I'm not sure if it is worth developing or n
 so it should be fairly easy to add more stats and features, I think!
 
 Though I am fully aware my programming leaves a lot to be desired (from a professional point of view, I am a hobbyist not a pro,
-I do this for fun FFS lol) and probably only I can understand the spaghetti I have created here (I have ADHD brain and it works 
+I do this for fun!) and probably only I can work with the spaghetti I have created here (I have ADHD brain and it works 
 different to most other people) it all makes sense to me!!!
 
 
