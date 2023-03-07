@@ -29,7 +29,7 @@ so take the predictions with a pinch of salt, but if I don't put a predictor of 
 
 You can save the resultant data as CSV or plain text by clicking the appropriate button.
 
-You can quickly view edit or delete those saved files in your file browser, if you got to the drop-down menu,
+You can quickly view edit or delete those saved files in your file browser, if you go to the drop-down menu,
 top left of the program, you can select "open user saves folder".
 
 This is a very early version of H2H. I'm not sure if it is worth developing or not but I have done all the donkey work now 
