@@ -24,7 +24,7 @@ the other way around if you want them.
 At the bottom of the program you will see some statistics gleaned from the displayed results and a tentative prediction
 for the next time that fixture is to be played.
 
-Of course this prediction is on based solely on history and cannot take into account current form, injuries, manager etc.
+Of course this prediction is based solely on history and cannot take into account current form, injuries, manager etc.
 so take the predictions with a pinch of salt, but if I don't put a predictor of some sort in the program people will want one, so I did it!
 
 You can save the resultant data as CSV or plain text by clicking the appropriate button.
