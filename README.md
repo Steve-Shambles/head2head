@@ -41,7 +41,7 @@ pyinstaller head2head_v074.py -n head2head_v074 --windowed --onefile
 to run, the exe will need the complete data folder in same dir as the exe.
 
 
-or download pre-made Windows exe 19Mb:  https://drive.google.com/file/d/1LR6ft0LdTS0tmDOIm5fm3nQhQI9bavSp/view?usp=share_link
+or download pre-made Windows exe 25Mb:  https://drive.google.com/file/d/1LR6ft0LdTS0tmDOIm5fm3nQhQI9bavSp/view?usp=share_link
 
 download includes all required files, just unzip it and double click the exe file.
 
