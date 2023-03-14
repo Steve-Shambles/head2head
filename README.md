@@ -8,7 +8,7 @@ logo photo attribution: Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, 
 
 This program is Freeware and the source code comes under the MIT Licence, but the program as a whole remains (c) Steve Shambles.
 
-![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.72-screenshot1.png)
+![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.74-screenshot1.png)
 
 Head2Head is a desktop app written for Windows PC's but should work on MAC and Linux too (not tested)
 it contains every single English Premier league result from the day of the league's inception back in August 1992
