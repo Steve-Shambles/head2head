@@ -1,4 +1,4 @@
-# head2head
+# Head2Head V0.74 (updated 14th March 2023)
 
 A database of every English Premier League football match with head2head stats and tentative match prediction.
 
