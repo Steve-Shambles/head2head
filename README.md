@@ -35,16 +35,18 @@ top left of the program, you can select "open user saves folder".
 This is a very early version of H2H. I'm not sure if it is worth developing or not but I have done all the donkey work now 
 so it should be fairly easy to add more stats and features, I think!
 
-Though I am fully aware my programming leaves a lot to be desired (from a professional point of view, I am a hobbyist not a pro,
-I do this for fun!) and probably only I can work with the spaghetti I have created here (I have ADHD brain and it works 
-different to most other people) it all makes sense to me!!!
+Though I am fully aware my programming leaves a lot to be desired (from a professional point of view, I am a hobbyist not a pro)
+and probably only I can work with the spaghetti that I have created here as I have an ADHD brain and it works 
+different to most other people!
 
+Anyway:
 
-Create your own executable file with pyinstaller (pip install pyinstaller) first:
+If you want to create your own executable file with pyinstaller (pip install pyinstaller) first:
 
 pyinstaller head2head_v072.py -n head2head_v072 --windowed --onefile
 
 to run, the exe will need the complete data folder in same dir as the exe.
+
 
 or download pre-made Windows exe 19Mb:  https://drive.google.com/file/d/1S8Hdc-DqWM-o6zbr8AEB76gxHPgDu5NI/view?usp=sharing
 
