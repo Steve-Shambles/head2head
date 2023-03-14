@@ -11,7 +11,6 @@ Historical data supplied by https://football-data.co.uk, with thanks. Current da
 logo photo attribution: Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78153606
 
 This program is Freeware and the source code comes under the MIT Licence, but the program as a whole remains (c) Steve Shambles.
-----------------------------------------------
 
 Head2Head is a desktop app written for Windows PC's but should work on MAC and Linux too (not tested)
 it contains every single English Premier league result from the day of the league's inception back in August 1992
