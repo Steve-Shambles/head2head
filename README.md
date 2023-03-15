@@ -2,7 +2,7 @@
 -------------------------------------------
 A database of every English Premier League football match with head2head stats and tentative match prediction.
 
-Historical data supplied by https://football-data.co.uk, with thanks. Current data covers Aug 1992 to Feb 2023.
+Historical data supplied by https://football-data.co.uk, with thanks. Current data covers Aug 1992 to March 14th 2023.
 
 logo photo attribution: Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78153606
 
