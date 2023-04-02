@@ -26,7 +26,7 @@ V0.80: Added links menu to quickly see EPL table and odds of up-coming matches.
        clear stats box and show relevent message.
        Redone logo img for better quality.
 
-![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.74-screenshot1.png)
+![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/data/h2h_v080_screenshot_2.png)
 
 Head2Head is a desktop app written for Windows PC's but should work on MAC and Linux too (not tested)
 it contains every single English Premier league result from the day of the league's inception back in August 1992
