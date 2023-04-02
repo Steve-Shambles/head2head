@@ -1,4 +1,4 @@
-# Head2Head V0.74 (updated 14th March 2023)
+# Head2Head V0.80 (updated 17th March 2023)
 -------------------------------------------
 A database of every English Premier League football match with head2head stats and tentative match prediction.
 
@@ -7,6 +7,24 @@ Historical data supplied by https://football-data.co.uk, with thanks. Current da
 logo photo attribution: Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78153606
 
 This program is Freeware and the source code comes under the MIT Licence, but the program as a whole remains (c) Steve Shambles.
+
+
+Changes since last version (0.74)
+V0.75. Added clean sheets statitics.
+
+V0.76. Added 0.75 of a goal for home advantage in prediction formula.
+
+V0.77. Added home and away pts stat.
+
+V0.78. Added match outcome prediction to correct score prediction for clarity.
+       Resized logo img as running out of vertical screen space.
+       
+V0.79: Added white bg to break up stats text ands make more readable.+ code tidy up.
+
+V0.80: Added links menu to quickly see EPL table and odds of up-coming matches.
+       Added when a fixture that has never been played before
+       clear stats box and show relevent message.
+       Redone logo img for better quality.
 
 ![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/h2h-0.74-screenshot1.png)
 
