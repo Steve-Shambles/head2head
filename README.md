@@ -10,6 +10,7 @@ This program is Freeware and the source code comes under the MIT Licence, but th
 
 
 Changes since last version (0.74)
+
 V0.75. Added clean sheets statitics.
 
 V0.76. Added 0.75 of a goal for home advantage in prediction formula.
@@ -54,15 +55,9 @@ Anyway:
 
 If you want to create your own executable file with pyinstaller (pip install pyinstaller) first:
 
-pyinstaller head2head_v074.py -n head2head_v074 --windowed --onefile
+pyinstaller head2head_v080.py -n head2head_v080 --windowed --onefile
 
 to run, the exe will need the complete data folder in same dir as the exe.
-
-
-or download pre-made Windows exe 25Mb:  https://drive.google.com/file/d/1LR6ft0LdTS0tmDOIm5fm3nQhQI9bavSp/view?usp=share_link
-
-download includes all required files, just unzip it and double click the exe file.
-
 
 
 Steve Shambles.
