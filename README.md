@@ -71,7 +71,7 @@ pyinstaller head2head_v0802.py -n head2head_v0802 --windowed --onefile
 
 to run, the exe will need the complete data folder in same dir as the exe.
 
-If you prefer you can take a chance and download a zip of my executable and all files required, just unzip and run the exe (24Mb)
+If you prefer you can take a chance and download a zip of my executable and all files required, just unzip and run the exe (27Mb)
 
 https://drive.google.com/file/d/1c7clon3EHvLmY9rmoPO2qdsyAB6ZuRot/view?usp=sharing
 
