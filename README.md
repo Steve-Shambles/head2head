@@ -9,7 +9,8 @@ logo photo attribution: Thank you to Bluejam - Self-photographed, CC BY-SA 4.0, 
 This program is Freeware and the source code comes under the MIT Licence, but the program as a whole remains (c) Steve Shambles.
 
 
-V0.81: Added Luton to list of teams
+V0.81: Added Luton to list of teams.
+
 V0.82: Updated results to end of season 22-2023, + updated help file + some minor tinkering.
 
 ![Alt Text](https://github.com/Steve-Shambles/head2head/blob/main/data/h2h_v0802_screenshot.png)
@@ -56,6 +57,9 @@ I have an ADHD brain and it works different to most other people, you will be sc
 
 
 Unapologetically, Steve Shambles June 2023.
+
+
+
 
 Make your own executable:
 (note: Windows defender usually deletes any python executable it can get its hands on, so be prepared for that nonsense.)
